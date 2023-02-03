@@ -17,5 +17,5 @@ This data set consists of-
 4. Race/ethnicity
 5. Test preparation
 
-#Aim
+# Aim
 To understand the influence of parents background, test preparation etc on students performance.
